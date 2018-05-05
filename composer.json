@@ -1,0 +1,16 @@
+{
+    "name": "magacyc/mws",
+    "description": "A multi swoole websocket server management package",
+    "type": "library",
+    "require": {
+        "predis/predis": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "magacyc",
+            "email": "folospace@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
